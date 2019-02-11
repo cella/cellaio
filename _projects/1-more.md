@@ -71,16 +71,16 @@ actual human in case they have additional questions.
 
 ### Persona
 
-![Kaus Persona]"/images/more/more-persona.png)
+![Kaus Persona](/images/more/more-persona.png)
 
 ### Empathy Map
 
-![Kaus Empathy Map]"/images/more/more-empathy.png)
+![Kaus Empathy Map](/images/more/more-empathy.png)
 
 
 ## Storyboard
 
-![Kaus Storyboard]"/images/more/more-storyboard.png)
+![Kaus Storyboard](/images/more/more-storyboard.png)
 
 ## Wireframes
 

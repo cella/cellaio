@@ -20,6 +20,6 @@ Anthropologie is a lifestyle retailer catering to the creative-minded woman. As 
 
 ## The Anthropologist
 
-The Anthropoglist was a digital magazine featuring artists and their work. The website was highly interactive, with a mix of video, image, and textual content.
+The Anthropologist was a digital magazine featuring artists and their work. The website was highly interactive, with a mix of video, image, and textual content.
 
 ![The Anthropologist](/images/anthro/anthro-anthropologist.png)
