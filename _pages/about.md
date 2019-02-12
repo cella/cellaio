@@ -10,6 +10,6 @@ I am passionate about UX and am interested in the intersection between design an
 
 I care deeply about building an inclusive tech community and have volunteered with organizations like [Philly Tech Sistas](https://www.phillytechsistas.org/) and [Coded by Kids](https://www.codedbykids.com/).  Additionally, I am a mentor at [CareerFoundry](https://careerfoundry.com/en/home), where I help students grow the skills they need to become future web developers and designers.
 
-In a past life, I played in a few punk bands, and currently am working on a zine of my [photography](https://www.instagram.com/cellamonet/).
+In a past life, I played in a few punk bands, acted in a [short film](https://www.imdb.com/name/nm10119018/), and currently am working on a zine of my [photography](https://www.instagram.com/cellamonet/).
 
 I live, work, and play in sunny Philadelphia with my pup, Kuma.
