@@ -1,12 +1,12 @@
 ---
 title: 'CareerFoundry'
-subtitle: '2018-Present'
+subtitle: '2018-2019'
 featured_image: '/images/careerfoundry/careerfoundry.png'
 ---
 
 ![CareerFoundry](/images/careerfoundry/careerfoundry-main2.png)
 
-At CareerFoundry, I serve as a mentor for both the Frontend Development for Designers and Full-Stack Web Developer courses. I combine my love for teaching and mentorship and provide 1-on-1 support to students through lessons and projects that culminate into building a fully functional portfolio and e-commerce shop. Through regular video calls and detailed assignment reviews, I provide guidance, knowledge-sharing and career coaching to support students on their journey towards becoming future web developers and designers.
+At CareerFoundry, I served as a mentor for both the Frontend Development for Designers and Full-Stack Web Developer courses. I combined my love for teaching and mentorship and provide 1-on-1 support to students through lessons and projects that culminate into building a fully functional portfolio and e-commerce shop. Through regular video calls and detailed assignment reviews, I provided guidance, knowledge-sharing and career coaching to support students on their journey towards becoming future web developers and designers.
 
 ## Technologies
 * Javascript
