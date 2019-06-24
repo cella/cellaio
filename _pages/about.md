@@ -12,4 +12,4 @@ I care deeply about building an inclusive tech community and have volunteered wi
 
 In a past life, I played in a few punk bands, acted in a short film, and currently am working on a zine of my [photography](https://www.instagram.com/cellamonet/).
 
-I live, work, and play in sunny Philadelphia with my pup, Kuma.
+I live, work, and play in Los Angeles with my pup, Kuma.
