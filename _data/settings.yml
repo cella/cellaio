@@ -12,6 +12,8 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about'
+    - title: 'MHCID'
+      url: '/mhcid'
     - title: 'Contact'
       url: '/contact'
 
