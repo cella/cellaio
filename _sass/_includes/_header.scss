@@ -40,11 +40,7 @@
 	}
 
 	@include mq(tabletp) {
-		font-size: $sitetitle-small;
-	}
-
-	@include mq(laptop) {
-		font-size: $sitetitle-small;
+		font-size: $sitetitle-medium;
 	}
 }
 
@@ -75,7 +71,6 @@
 
 .menu__list__item__link {
 	padding: 0 0 3px;
-	font-size: $menu-medium;
 	color: $text-dark-color;
 	border-bottom: 2px solid transparent;
 

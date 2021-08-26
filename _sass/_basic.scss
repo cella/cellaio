@@ -142,6 +142,10 @@ p, ul, ol {
 	&:first-child {
 		margin-top: 0;
 	}
+
+	@include mq(tabletp) {
+		font-size: $p-medium;
+	}
 }
 
 ul, ol {
@@ -343,7 +347,11 @@ body.loading {
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page sections
 
 section {
-		margin-top: 60px;
+		margin-top: 40px;
+
+		@include mq(tabletp) {
+			margin-top: 60px;
+		}
 }
 
 .wrap {
