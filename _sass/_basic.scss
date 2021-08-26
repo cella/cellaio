@@ -17,7 +17,7 @@ body {
 	font-weight: $regular-weight;
 	font-style: normal;
 	line-height: 1;
-	color: $text-medium-color;
+	color: $text-dark-color;
 }
 
 
@@ -135,14 +135,6 @@ p, ul, ol {
 	line-height: $p-lineheight;
 	letter-spacing: $p-spacing;
 
-	@include mq(tabletp) {
-		font-size: $p-medium;
-	}
-
-	@include mq(laptop) {
-		font-size: $p-large;
-	}
-
 	strong {
 		font-weight: $bold-weight;
 	}
@@ -193,7 +185,6 @@ blockquote {
 a {
 	text-decoration: none;
 	color: $text-dark-color;
-	font-weight: $bold-weight;
 	@include transition(all 0.15s ease-in-out);
 
 	&:hover {
@@ -352,32 +343,18 @@ body.loading {
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page sections
 
 section {
-	margin-top: 40px;
-
-	@include mq(tabletp) {
-		margin-top: 50px;
-	}
-
-	@include mq(tabletl) {
 		margin-top: 60px;
-	}
-
-	@include mq(laptop) {
-		margin-top: 80px;
-	}
 }
 
 .wrap {
 	position: relative;
 	margin: 0 auto;
 	padding: 0 30px;
-	max-width: 500px;
+	max-width: 495px;
 
 	@include mq(tabletp) {
 		padding: 0;
 		width: 70%;
-		max-width: 1200px;
+		max-width: 495px;
 	}
-
-
 }

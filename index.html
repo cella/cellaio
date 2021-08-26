@@ -1,50 +1,21 @@
 ---
 layout: default
-title: Work
-description: Cella Sum is a developer at Big Cartel who really loves UX.
+title: Home
+description: Cella Monet Sum is a PhD student at Carnegie Mellon University's Human-Computer Interaction Institute.
 ---
 
-<section class="intro">
 
   <div class="wrap">
-
-    <h1>Hi! I'm Cella Sum,
-      a developer who really
-      <span style="font-weight: 700; font-style: italic">really</span> loves UX.</h1>
-
-      <h3>I've worked for companies like:</h3>
-
+    <div class="container">
+      <section>
+        <div class="image-wrap"><img class="circle-image" src="images/about/cella.jpg" alt="A photo showing multiple reflections of Cella in a series of mirrors."/></div>
+        <p>Cella Monet Sum is a PhD student at Carnegie Mellon University's Human-Computer Interaction Institute.
+        </p>
+        <p>
+          Her research focuses on AI, labor, disability, and the future of care work. Drawing from postcolonial, feminist, and critical disability studies, she examines the politics of care in technologies. Using participatory design methods, she works with community stakeholders to co-create more just alternatives.
+        </p>
+        <p>
+          Cella holds a Masters in Human-Computer Interaction and Design from UC Irvine and a BS in Computer Science from Shippensburg University.
+        </section>
+      </div>
   </div>
-
-</section>
-
-<section class="portfolio">
-
-  <div class="content-wrap portfolio-wrap">
-
-    {% for project in site.projects reversed %}
-
-    <div class="portfolio-item">
-
-      <a class="portfolio-item__link" href="{{ project.url }}">
-
-        <div class="portfolio-item__image">
-          <img src="{{ project.featured_image  }}" alt="{{ project.title }}">
-        </div>
-
-        <div class="portfolio-item__content">
-          <div class="portfolio-item__info">
-            <h2 class="portfolio-item__title">{{ project.title }}</h2>
-            <p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
-          </div>
-        </div>
-
-      </a>
-
-    </div>
-
-    {% endfor %}
-
-  </div>
-
-</section>
