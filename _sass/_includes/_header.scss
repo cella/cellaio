@@ -36,7 +36,7 @@
 	color: $text-dark-color;
 
 	&:hover {
-		color: $accent-color;
+		background-color: inherit;
 	}
 
 	@include mq(tabletp) {
@@ -70,16 +70,15 @@
 }
 
 .menu__list__item__link {
-	padding: 0 0 3px;
+	padding: 0 0 2px;
 	color: $text-dark-color;
-	border-bottom: 2px solid transparent;
+	border-bottom: 2px solid $accent-color;
 
 	&:hover {
-		color: $accent-color;
+		background-color: $accent-color;
 	}
 
 	&.active-link {
-		color: $text-dark-color;
-		border-color: $accent-color;
+		background-color: $accent-color;
 	}
 }

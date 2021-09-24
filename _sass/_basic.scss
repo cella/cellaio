@@ -192,7 +192,7 @@ a {
 	@include transition(all 0.15s ease-in-out);
 
 	&:hover {
-		color: $accent-color;
+		background-color: $accent-color;
 	}
 }
 
@@ -358,11 +358,12 @@ section {
 	position: relative;
 	margin: 0 auto;
 	padding: 0 30px;
-	max-width: 495px;
+	max-width: 429px;
+
 
 	@include mq(tabletp) {
 		padding: 0;
 		width: 70%;
-		max-width: 495px;
+		max-width: 576px;
 	}
 }
