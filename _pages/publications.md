@@ -1,11 +1,18 @@
 ---
 title: 'Publications'
 ---
-## Peer-reviewed
+## Short Papers (Lightly peer reviewed)
 Edwards, E.J., Sum, C.M., Branham, S.M. 2020. Three Tensions Between Personas and Complex Disability Identities. In *Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI EA '20)*. Association for Computing Machinery, New York, NY, USA, 1–9. DOI: [https://doi.org/10.1145/3334480.3382931](https://doi.org/10.1145/3334480.3382931)
 
-## Workshop Proposals
+## Workshops (Lightly peer reviewed)
 Sum, C.M., Alharbi, R., Spektor, F., Bennett C.L., Harrington, C., Spiel, K., Williams R. 2022. Dreaming Disability Justice in HCI. In *CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI EA '22)*. Association for Computing Machinery, New York, NY, USA, Article 114, 1–5. [https://doi.org/10.1145/3491101.3503731](https://doi.org/10.1145/3491101.3503731)
+
+## Position Papers (Lightly peer reviewed)
+Sum, C.M. 2022. Organized Abandonment and the Rise of Surveillance Technologies in the U.S. Welfare State. For the workshop: Who Has an Interest in “Public Interest Technology”?, CSCW 2022.
+
+Sum, C.M. 2022. Political Imaginations and Colonial Logics within Digital Care Infrastructures. For the workshop: Triangulating Race, Capital, and Technology, CHI 2022.
+
+Sum, C.M. 2021. Carceral Care and Technologies. For the workshop: The Future of Care Work: Towards a Radical Politics of Care in CSCW Research and Practice, CSCW 2021.
 
 ## Other Writing
 Sum, C.M. 2020. What Octavia Butler can teach us about HCI and design. *UX Collective*. [https://uxdesign.cc/what-octavia-butler-can-teach-us-about-hci-and-design-b1fb9237f501](https://uxdesign.cc/what-octavia-butler-can-teach-us-about-hci-and-design-b1fb9237f501)
