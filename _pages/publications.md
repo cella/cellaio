@@ -2,7 +2,7 @@
 title: 'Publications'
 ---
 
-**Sum, C.M**, Tran, A., Lin, J., Kuo, R., Bennett, C.L., Harrington, C., Fox, S.E. 2023. Translation as (Re)Mediation: How Ethnic Community-Based Organizations Negotiate Legitimacy. To Appear In *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23)*. [[Preprint]](https://cella.io/assets/pdfs/Sum-et-al-CHI-2023-Translation-as-(Re)mediation.pdf)
+**Sum, C.M**, Tran, A., Lin, J., Kuo, R., Bennett, C.L., Harrington, C., Fox, S.E. 2023. Translation as (Re)Mediation: How Ethnic Community-Based Organizations Negotiate Legitimacy. In *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23)*. DOI: [https://doi.org/10.1145/3544548.3581280](https://doi.org/10.1145/3544548.3581280)
 
 **Sum, C.M.**, Alharbi, R., Spektor, F., Bennett C.L., Harrington, C., Spiel, K., Williams R. 2022. Dreaming Disability Justice in HCI. In *CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI EA '22)*. DOI: [https://doi.org/10.1145/3491101.3503731](https://doi.org/10.1145/3491101.3503731)
 
