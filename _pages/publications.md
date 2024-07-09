@@ -2,12 +2,20 @@
 title: 'Publications'
 ---
 
-**Sum, C.M**, Tran, A., Lin, J., Kuo, R., Bennett, C.L., Harrington, C., Fox, S.E. 2023. Translation as (Re)Mediation: How Ethnic Community-Based Organizations Negotiate Legitimacy. In *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23)*. DOI: [https://doi.org/10.1145/3544548.3581280](https://doi.org/10.1145/3544548.3581280)
+## Peer-Reviewed
 
-**Sum, C.M.**, Alharbi, R., Spektor, F., Bennett C.L., Harrington, C., Spiel, K., Williams R. 2022. Dreaming Disability Justice in HCI. In *CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI EA '22)*. DOI: [https://doi.org/10.1145/3491101.3503731](https://doi.org/10.1145/3491101.3503731)
+**Sum, C.M.**, Tran, A., Lin, J., Kuo, R., Bennett, C.L., Harrington, C., & Fox, S.E. 2023. Translation as (Re)Mediation: How Ethnic Community-Based Organizations Negotiate Legitimacy. In *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23)*. DOI: [https://doi.org/10.1145/3544548.3581280](https://doi.org/10.1145/3544548.3581280)
 
-Edwards, E.J., **Sum, C.M.**, Branham, S.M. 2020. Three Tensions Between Personas and Complex Disability Identities. In *Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI EA '20)*.DOI: [https://doi.org/10.1145/3334480.3382931](https://doi.org/10.1145/3334480.3382931)
+**Sum, C.M.**, Alharbi, R., Spektor, F., Bennett C.L., Harrington, C., Spiel, K., & Williams R. 2022. Dreaming Disability Justice in HCI. In *CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI EA '22)*. DOI: [https://doi.org/10.1145/3491101.3503731](https://doi.org/10.1145/3491101.3503731)
 
+Edwards, E.J., **Sum, C.M.**, & Branham, S.M. 2020. Three Tensions Between Personas and Complex Disability Identities. In *Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI EA '20)*. DOI: [https://doi.org/10.1145/3334480.3382931](https://doi.org/10.1145/3334480.3382931)
+
+
+## Magazine Articles
+
+**Sum, C.M.** & DeVrio, A. 2024. Shifting Power Through Resistance: Social Justice in Practice. XRDS 30, 4 (Summer 2024), 7–9. DOI: [https://doi.org/10.1145/3665272](https://doi.org/10.1145/3665272)
+
+**Sum, C.M.**, Spektor, F., Alharbi, R., Baltaxe-Admony L.B., Devine, E., Dixon, H.A., Duval,J., Eagle, T., Elavsky, F., Fernandes, K., Guedes, L.S., Hillman, S., Kameswaran, V., Kirabo, L., Motahar, T., Ringland, K.E., Schaadhardt, A., Scheepmaker, L., & Williamson, A. 2024. Challenging Ableism: A Critical Turn Toward Disability Justice in HCI. XRDS 30, 4 (Summer 2024), 50–55. DOI: [https://doi.org/10.1145/3665602](https://doi.org/10.1145/3665602)
 
 
 ## Position Papers
